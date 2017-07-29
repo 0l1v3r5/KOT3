@@ -1,25 +1,44 @@
 
-## KOT3
-A quote application with Forismatic API in IONIC 3 
+# KOT3
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+A mobile quote app under construction.
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+## Getting Started
 
-### With the Ionic CLI:
+It's not recommanded to install it.
+This app is still in dev. A lot of bugs can be found.
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+## Functionality
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
+- Show quote randomly.
+
+### Coming soon
+
+- Analyze each quote retrieved randomly and display an image corresponding to its background.
+
+### Prerequisites
+
+Install Ionic. Tap the following command in terminal
+```
+npm install -g cordova ionic@latest
 ```
 
-Then, to run it, cd into `myBlank` and run:
+Before installing ionic, make sure you have the latest version of [Nodejs](https://nodejs.org/)
 
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
+## API Reference
 
-Substitute ios for android if not on a Mac.
+[Forismatic API](https://forismatic.com/en/api/) - An Amazing quote API on the web.
+[Unsplash API](https://unsplash.com/developers) - The most powerful photo engine in the world.
+
+## Built With
+
+* [Ionic Framework](https://ionicframework.com) - The top open source framework for building amazing mobile apps.
+
+## Authors
+
+* **[Me](https://github.com/0l1v3r5)**
+* **[Wilfried]()**
+
+## License
+
+Free to use.
