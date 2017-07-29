@@ -27,8 +27,8 @@ Before installing ionic, make sure you have the latest version of [Nodejs](https
 
 ## API Reference
 
-[Forismatic API](https://forismatic.com/en/api/) - An Amazing quote API on the web.
-[Unsplash API](https://unsplash.com/developers) - The most powerful photo engine in the world.
+* [Forismatic API](https://forismatic.com/en/api/) - An Amazing quote API on the web.
+* [Unsplash API](https://unsplash.com/developers) - The most powerful photo engine in the world.
 
 ## Built With
 
