@@ -37,7 +37,6 @@ Before installing ionic, make sure you have the latest version of [Nodejs](https
 ## Authors
 
 * **[Me](https://github.com/0l1v3r5)**
-* **[Wilfried]()**
 
 ## License
 
